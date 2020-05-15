@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 <h3>Preview : </h3>
-![alt text](https://github.com/Deep1144/ExpanceManagerFlutter/edit/master/Frame1.png)
+![](image/Frame1.png)
